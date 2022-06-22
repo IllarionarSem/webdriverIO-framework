@@ -1,0 +1,61 @@
+[ {
+  "uid" : "ec759d487fc58d66",
+  "name" : "invalid submission - dont submit all information",
+  "time" : {
+    "start" : 1655195384321,
+    "stop" : 1655195394509,
+    "duration" : 10188
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3c9d227aa4fa2c1c",
+  "name" : "valid submission using auto generated string",
+  "time" : {
+    "start" : 1655195392491,
+    "stop" : 1655195402794,
+    "duration" : 10303
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1b0b7ba4c16393cd",
+  "name" : "valid submission - submit all information",
+  "time" : {
+    "start" : 1655195371468,
+    "stop" : 1655195382208,
+    "duration" : 10740
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "4722d81b1d741868",
+  "name" : "valid submission using auto generated string",
+  "time" : {
+    "start" : 1655195394509,
+    "stop" : 1655195404690,
+    "duration" : 10181
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6ed52b97b6c583d1",
+  "name" : "invalid submission - dont submit all information",
+  "time" : {
+    "start" : 1655195382209,
+    "stop" : 1655195392490,
+    "duration" : 10281
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f3356a159027075b",
+  "name" : "valid submission - submit all information",
+  "time" : {
+    "start" : 1655195373647,
+    "stop" : 1655195384321,
+    "duration" : 10674
+  },
+  "status" : "broken",
+  "severity" : "critical"
+} ]
